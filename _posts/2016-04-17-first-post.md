@@ -6,6 +6,6 @@ Hello! My name's Colt Bradley, I'm a student of Physics and Mathematics at NCSU 
 
 Right now, I'm hoping to use this as a way to learn programming and a variety of skills that I'll outline in posts at some point (Once I figure out how to work this site). I plan to use it as a sort of baptism by fire/build the plane while flying it type of project. We'll see how it goes. 
 
-Anyways, if you have any suggestions please [email](coltbradley@gmail.com) me or if you want to connect personally or professionally, send me a request on [LinkedIn](https://www.linkedin.com/in/coltbradley). Excited to be starting this. 
+Anyways, if you have any suggestions please [email](mailto:coltbradley@gmail.com) me or if you want to connect personally or professionally, send me a request on [LinkedIn](https://www.linkedin.com/in/coltbradley). Excited to be starting this. 
 
 To see how I created this site, see [this](http://roymoran.me/personal-blog-setup-guide) guide. 
