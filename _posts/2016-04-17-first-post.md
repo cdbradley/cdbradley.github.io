@@ -8,4 +8,4 @@ Right now, I'm hoping to use this as a way to learn programming and a variety of
 
 Anyways, if you have any suggestions please [email](mailto:coltbradley@gmail.com) me or if you want to connect personally or professionally, send me a request on [LinkedIn](https://www.linkedin.com/in/coltbradley). Excited to be starting this. 
 
-To see how I created this site, see [this](http://roymoran.me/personal-blog-setup-guide) guide. Also, [here's](http://blog.woodylabs.com/2012/01/1and1-web-hosting-git-installing-it-for-singular-dev/) one for me to set it up on my 1&1 domain [cdbradley.com](cdbradley.com)(currently redirects to this site).
+To see how I created this site, see [this](http://roymoran.me/personal-blog-setup-guide) guide. Also, [here's](http://blog.woodylabs.com/2012/01/1and1-web-hosting-git-installing-it-for-singular-dev/) one for me to set it up on my 1&1 domain [cdbradley.com](https://www.cdbradley.com)(currently redirects to this site).
