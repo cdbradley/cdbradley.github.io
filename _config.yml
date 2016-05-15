@@ -6,15 +6,15 @@ permalink:           pretty
 # Setup
 title:               CDBradley
 tagline:             'A personal blog'
-description:         'A place where you can follow my learning new skills and find resources to learn them yourself.'
-url:                 http://lanyon.getpoole.com
+description:         'A place for my thoughts, musings, and what I`m working on.'
+url:                 http://www.cdbradley.com
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
   name:              Colt Bradley
-  url:               
+  url:               http://www.cdbradley.com
   email:             coltbradley@gmail.com
 
 # Custom vars
