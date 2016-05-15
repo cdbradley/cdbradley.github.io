@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Programming: Baptism by Fire
+title: Introduction
 ---
 Hello! My name's Colt Bradley, I'm a student of Physics and Mathematics at NCSU and I don't really know what I want to do with my life. Enter this project. 
 
